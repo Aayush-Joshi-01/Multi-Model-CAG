@@ -1,0 +1,603 @@
+[
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForCausalLM",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForCausalLM",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForCausalLM",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "DynamicCache",
+        "importPath": "transformers.cache_utils",
+        "description": "transformers.cache_utils",
+        "isExtraImport": true,
+        "detail": "transformers.cache_utils",
+        "documentation": {}
+    },
+    {
+        "label": "DynamicCache",
+        "importPath": "transformers.cache_utils",
+        "description": "transformers.cache_utils",
+        "isExtraImport": true,
+        "detail": "transformers.cache_utils",
+        "documentation": {}
+    },
+    {
+        "label": "DynamicCache",
+        "importPath": "transformers.cache_utils",
+        "description": "transformers.cache_utils",
+        "isExtraImport": true,
+        "detail": "transformers.cache_utils",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "pymupdf4llm",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymupdf4llm",
+        "description": "pymupdf4llm",
+        "detail": "pymupdf4llm",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "psutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psutil",
+        "description": "psutil",
+        "detail": "psutil",
+        "documentation": {}
+    },
+    {
+        "label": "gc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gc",
+        "description": "gc",
+        "detail": "gc",
+        "documentation": {}
+    },
+    {
+        "label": "CacheAugmentedMistral",
+        "kind": 6,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "class CacheAugmentedMistral:\n    def __init__(self, model_name=\"Qwen/Qwen2-0.5B-Instruct\"):\n        self.model_name = model_name\n        self.device = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n        # Initialize model and tokenizer\n        self.tokenizer = AutoTokenizer.from_pretrained(\n            model_name, \n            token=os.getenv(\"HF_TOKEN\"),\n            trust_remote_code=True\n        )",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text_from_pdf",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def extract_text_from_pdf(pdf_file) -> str:\n    \"\"\"Extract text from PDF using PyMuPDF\"\"\"\n    # Save uploaded file to temporary file\n    with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as tmp_file:\n        tmp_file.write(pdf_file.getvalue())\n        tmp_path = tmp_file.name\n    try:\n        # Initialize parser\n        text = pymupdf4llm.to_markdown(tmp_path)\n        return text",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "generate",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def generate(model, input_ids: torch.Tensor, past_key_values, max_new_tokens: int = 50) -> torch.Tensor:\n    device = model.model.embed_tokens.weight.device\n    origin_len = input_ids.shape[-1]\n    input_ids = input_ids.to(device)\n    output_ids = input_ids.clone()\n    next_token = input_ids\n    with torch.no_grad():\n        for _ in range(max_new_tokens):\n            out = model(\n                input_ids=next_token,",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "get_kv_cache",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def get_kv_cache(model, tokenizer, prompt: str) -> DynamicCache:\n    device = model.model.embed_tokens.weight.device\n    input_ids = tokenizer(prompt, return_tensors=\"pt\").input_ids.to(device)\n    cache = DynamicCache()\n    with torch.no_grad():\n        _ = model(\n            input_ids=input_ids,\n            past_key_values=cache,\n            use_cache=True\n        )",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "clean_up",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def clean_up(cache: DynamicCache, origin_len: int):\n    for i in range(len(cache.key_cache)):\n        cache.key_cache[i] = cache.key_cache[i][:, :, :origin_len, :]\n        cache.value_cache[i] = cache.value_cache[i][:, :, :origin_len, :]\nclass CacheAugmentedMistral:\n    def __init__(self, model_name=\"Qwen/Qwen2-0.5B-Instruct\"):\n        self.model_name = model_name\n        self.device = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n        # Initialize model and tokenizer\n        self.tokenizer = AutoTokenizer.from_pretrained(",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def main():\n    st.title(\"PDF Question-Answering with Cache-Augmented Mistral\")\n    # Initialize the system\n    if 'mistral' not in st.session_state:\n        with st.spinner(\"Loading Mistral model...\"):\n            st.session_state.mistral = CacheAugmentedMistral()\n            st.success(\"Model loaded successfully!\")\n    # Initialize session state\n    if 'pdf_text' not in st.session_state:\n        st.session_state.pdf_text = \"\"",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentProcessor",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class DocumentProcessor(ABC):\n    \"\"\"Abstract base class for document processors\"\"\"\n    @abstractmethod\n    def extract_text(self, file) -> str:\n        pass\n    @abstractmethod\n    def get_supported_extensions(self) -> list:\n        pass\nclass PDFProcessor(DocumentProcessor):\n    def extract_text(self, file) -> str:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "PDFProcessor",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class PDFProcessor(DocumentProcessor):\n    def extract_text(self, file) -> str:\n        with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as tmp_file:\n            tmp_file.write(file.getvalue())\n            tmp_path = tmp_file.name\n        try:\n            text = pymupdf4llm.to_markdown(tmp_path)\n            return text\n        finally:\n            os.unlink(tmp_path)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "TXTProcessor",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class TXTProcessor(DocumentProcessor):\n    def extract_text(self, file) -> str:\n        return file.getvalue().decode('utf-8')\n    def get_supported_extensions(self) -> list:\n        return ['txt']\nclass ModelConfig:\n    \"\"\"Configuration class for different models\"\"\"\n    def __init__(\n        self,\n        name: str,",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ModelConfig",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class ModelConfig:\n    \"\"\"Configuration class for different models\"\"\"\n    def __init__(\n        self,\n        name: str,\n        model_id: str,\n        system_prompt: str,\n        max_new_tokens: int = 50,\n        temperature: float = 0.7\n    ):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "CacheAugmentedQA",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class CacheAugmentedQA:\n    def __init__(self, model_config: ModelConfig):\n        self.model_config = model_config\n        self.device = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n        self.tokenizer = AutoTokenizer.from_pretrained(\n            model_config.model_id,\n            token=os.getenv(\"HF_TOKEN\"),\n            trust_remote_code=True\n        )\n        self.model = AutoModelForCausalLM.from_pretrained(",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "generate",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def generate(\n    model,\n    input_ids: torch.Tensor,\n    past_key_values,\n    max_new_tokens: int = 50,\n    temperature: float = 0.7\n) -> torch.Tensor:\n    device = model.model.embed_tokens.weight.device\n    origin_len = input_ids.shape[-1]\n    input_ids = input_ids.to(device)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "get_available_models",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def get_available_models() -> Dict[str, ModelConfig]:\n    return {\n        \"Qwen 0.5B\": ModelConfig(\n            name=\"Qwen 0.5B\",\n            model_id=\"Qwen/Qwen2-0.5B-Instruct\",\n            system_prompt=\"\"\"\n            <|system|>\n            You are an assistant who provides concise factual answers.\n            <|user|>\n            Context:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "get_document_processors",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def get_document_processors() -> Dict[str, DocumentProcessor]:\n    return {\n        \"PDF\": PDFProcessor(),\n        \"TXT\": TXTProcessor()\n    }\ndef main():\n    st.title(\"Multi-Model Document Question-Answering System\")\n    available_models = get_available_models()\n    document_processors = get_document_processors()\n    initialize_session_state()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():\n    st.title(\"Multi-Model Document Question-Answering System\")\n    available_models = get_available_models()\n    document_processors = get_document_processors()\n    initialize_session_state()\n    selected_model = model_selection(available_models)\n    if model_needs_initialization(selected_model):\n        initialize_model(selected_model, available_models)\n    supported_extensions = get_supported_extensions(document_processors)\n    uploaded_file = st.file_uploader(\"Upload document\", type=supported_extensions)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_session_state",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def initialize_session_state():\n    if 'qa_system' not in st.session_state:\n        st.session_state.qa_system = None\n        st.session_state.doc_text = \"\"\n        st.session_state.cache = None\n        st.session_state.origin_len = None\ndef model_selection(available_models):\n    return st.selectbox(\n        \"Select Model\",\n        options=list(available_models.keys()),",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "model_selection",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def model_selection(available_models):\n    return st.selectbox(\n        \"Select Model\",\n        options=list(available_models.keys()),\n        key=\"model_selection\"\n    )\ndef model_needs_initialization(selected_model):\n    return (st.session_state.qa_system is None or \n            st.session_state.qa_system.model_config.name != selected_model)\ndef initialize_model(selected_model, available_models):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "model_needs_initialization",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def model_needs_initialization(selected_model):\n    return (st.session_state.qa_system is None or \n            st.session_state.qa_system.model_config.name != selected_model)\ndef initialize_model(selected_model, available_models):\n    with st.spinner(f\"Loading {selected_model} model...\"):\n        st.session_state.qa_system = CacheAugmentedQA(available_models[selected_model])\n        st.success(\"Model loaded successfully!\")\ndef get_supported_extensions(document_processors):\n    supported_extensions = []\n    for processor in document_processors.values():",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_model",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def initialize_model(selected_model, available_models):\n    with st.spinner(f\"Loading {selected_model} model...\"):\n        st.session_state.qa_system = CacheAugmentedQA(available_models[selected_model])\n        st.success(\"Model loaded successfully!\")\ndef get_supported_extensions(document_processors):\n    supported_extensions = []\n    for processor in document_processors.values():\n        supported_extensions.extend(processor.get_supported_extensions())\n    return supported_extensions\ndef process_uploaded_file(uploaded_file, document_processors):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "get_supported_extensions",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def get_supported_extensions(document_processors):\n    supported_extensions = []\n    for processor in document_processors.values():\n        supported_extensions.extend(processor.get_supported_extensions())\n    return supported_extensions\ndef process_uploaded_file(uploaded_file, document_processors):\n    file_ext = uploaded_file.name.split('.')[-1].lower()\n    processor = get_processor_for_extension(file_ext, document_processors)\n    if processor:\n        with st.spinner(\"Processing document...\"):",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "process_uploaded_file",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def process_uploaded_file(uploaded_file, document_processors):\n    file_ext = uploaded_file.name.split('.')[-1].lower()\n    processor = get_processor_for_extension(file_ext, document_processors)\n    if processor:\n        with st.spinner(\"Processing document...\"):\n            doc_text = processor.extract_text(uploaded_file)\n            if doc_text != st.session_state.doc_text:\n                st.session_state.doc_text = doc_text\n                with st.expander(\"View Extracted Text\"):\n                    st.text_area(\"Document Content\", doc_text, height=200, disabled=True)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "get_processor_for_extension",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def get_processor_for_extension(file_ext, document_processors):\n    for p in document_processors.values():\n        if file_ext in p.get_supported_extensions():\n            return p\n    return None\ndef handle_question_input():\n    question = st.text_input(\"Enter your question about the document:\")\n    if st.button(\"Generate Answer\") and question:\n        with st.spinner(\"Generating response...\"):\n            response = st.session_state.qa_system.generate_response(",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "handle_question_input",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def handle_question_input():\n    question = st.text_input(\"Enter your question about the document:\")\n    if st.button(\"Generate Answer\") and question:\n        with st.spinner(\"Generating response...\"):\n            response = st.session_state.qa_system.generate_response(\n                question,\n                st.session_state.cache,\n                st.session_state.origin_len\n            )\n        st.subheader(\"Response:\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentProcessor",
+        "kind": 6,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "class DocumentProcessor(ABC):\n    \"\"\"Abstract base class for document processors\"\"\"\n    @abstractmethod\n    def extract_text(self, file) -> str:\n        pass\n    @abstractmethod\n    def get_supported_extensions(self) -> list:\n        pass\nclass PDFProcessor(DocumentProcessor):\n    def extract_text(self, file) -> str:",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "PDFProcessor",
+        "kind": 6,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "class PDFProcessor(DocumentProcessor):\n    def extract_text(self, file) -> str:\n        with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as tmp_file:\n            tmp_file.write(file.getvalue())\n            tmp_path = tmp_file.name\n        try:\n            text = pymupdf4llm.to_markdown(tmp_path)\n            return text\n        finally:\n            os.unlink(tmp_path)",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "TXTProcessor",
+        "kind": 6,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "class TXTProcessor(DocumentProcessor):\n    def extract_text(self, file) -> str:\n        return file.getvalue().decode('utf-8')\n    def get_supported_extensions(self) -> list:\n        return ['txt']\nclass ModelConfig:\n    \"\"\"Configuration class for different models\"\"\"\n    def __init__(\n        self,\n        name: str,",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "ModelConfig",
+        "kind": 6,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "class ModelConfig:\n    \"\"\"Configuration class for different models\"\"\"\n    def __init__(\n        self,\n        name: str,\n        model_id: str,\n        system_prompt: str,\n        max_new_tokens: int = 50,\n        temperature: float = 0.7\n    ):",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "CacheAugmentedQA",
+        "kind": 6,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "class CacheAugmentedQA:\n    def __init__(self, model_config: ModelConfig):\n        self.model_config = model_config\n        self.device = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n        # Check available memory\n        available_memory = get_available_memory()\n        required_memory = estimate_model_size(model_config.model_id)\n        if available_memory < required_memory:\n            raise MemoryError(\n                f\"Not enough memory to load {model_config.name}. \"",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "estimate_model_size",
+        "kind": 2,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "def estimate_model_size(model_id: str) -> float:\n    \"\"\"\n    Estimate model size in GB based on model ID\n    Returns approximate memory requirements\n    \"\"\"\n    size_map = {\n        \"Qwen/Qwen2-0.5B-Instruct\": 1.5,  # 0.5B parameters + overhead\n        \"mistralai/Mistral-7B-Instruct-v0.1\": 15.0,  # 7B parameters + overhead\n        # Add more models and their approximate sizes\n    }",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "get_available_memory",
+        "kind": 2,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "def get_available_memory():\n    \"\"\"Get available system memory in GB\"\"\"\n    memory = psutil.virtual_memory()\n    return memory.available / (1024 * 1024 * 1024)  # Convert to GB\nclass DocumentProcessor(ABC):\n    \"\"\"Abstract base class for document processors\"\"\"\n    @abstractmethod\n    def extract_text(self, file) -> str:\n        pass\n    @abstractmethod",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "generate",
+        "kind": 2,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "def generate(\n    model,\n    input_ids: torch.Tensor,\n    past_key_values,\n    max_new_tokens: int = 50,\n    temperature: float = 0.7\n) -> torch.Tensor:\n    device = model.model.embed_tokens.weight.device\n    origin_len = input_ids.shape[-1]\n    input_ids = input_ids.to(device)",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "get_available_models",
+        "kind": 2,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "def get_available_models() -> Dict[str, ModelConfig]:\n    return {\n        \"Qwen 0.5B\": ModelConfig(\n            name=\"Qwen 0.5B\",\n            model_id=\"Qwen/Qwen2-0.5B-Instruct\",\n            system_prompt=\"\"\"\n            <|system|>\n            You are an assistant who provides concise factual answers.\n            <|user|>\n            Context:",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "get_document_processors",
+        "kind": 2,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "def get_document_processors() -> Dict[str, DocumentProcessor]:\n    return {\n        \"PDF\": PDFProcessor(),\n        \"TXT\": TXTProcessor()\n    }\ndef main():\n    st.title(\"Multi-Model Document Question-Answering System\")\n    display_available_memory()\n    available_models = get_available_models()\n    document_processors = get_document_processors()",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "def main():\n    st.title(\"Multi-Model Document Question-Answering System\")\n    display_available_memory()\n    available_models = get_available_models()\n    document_processors = get_document_processors()\n    initialize_session_state()\n    selected_model = model_selection(available_models)\n    initialize_model_if_needed(selected_model, available_models)\n    handle_file_upload(document_processors)\n    handle_question_input()",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "display_available_memory",
+        "kind": 2,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "def display_available_memory():\n    available_memory = get_available_memory()\n    st.sidebar.info(f\"Available Memory: {available_memory:.1f}GB\")\ndef initialize_session_state():\n    if 'qa_system' not in st.session_state:\n        st.session_state.qa_system = None\n        st.session_state.doc_text = \"\"\n        st.session_state.cache = None\n        st.session_state.origin_len = None\ndef model_selection(available_models):",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_session_state",
+        "kind": 2,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "def initialize_session_state():\n    if 'qa_system' not in st.session_state:\n        st.session_state.qa_system = None\n        st.session_state.doc_text = \"\"\n        st.session_state.cache = None\n        st.session_state.origin_len = None\ndef model_selection(available_models):\n    return st.selectbox(\n        \"Select Model\",\n        options=list(available_models.keys()),",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "model_selection",
+        "kind": 2,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "def model_selection(available_models):\n    return st.selectbox(\n        \"Select Model\",\n        options=list(available_models.keys()),\n        key=\"model_selection\"\n    )\ndef initialize_model_if_needed(selected_model, available_models):\n    if (st.session_state.qa_system is None or \n        st.session_state.qa_system.model_config.name != selected_model):\n        try:",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_model_if_needed",
+        "kind": 2,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "def initialize_model_if_needed(selected_model, available_models):\n    if (st.session_state.qa_system is None or \n        st.session_state.qa_system.model_config.name != selected_model):\n        try:\n            with st.spinner(f\"Loading {selected_model} model...\"):\n                if st.session_state.qa_system is not None:\n                    del st.session_state.qa_system\n                    torch.cuda.empty_cache()\n                    gc.collect()\n                st.session_state.qa_system = CacheAugmentedQA(available_models[selected_model])",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "handle_file_upload",
+        "kind": 2,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "def handle_file_upload(document_processors):\n    supported_extensions = []\n    for processor in document_processors.values():\n        supported_extensions.extend(processor.get_supported_extensions())\n    uploaded_file = st.file_uploader(\"Upload document\", type=supported_extensions)\n    if uploaded_file is not None:\n        process_uploaded_file(uploaded_file, document_processors)\ndef process_uploaded_file(uploaded_file, document_processors):\n    file_ext = uploaded_file.name.split('.')[-1].lower()\n    processor = None",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "process_uploaded_file",
+        "kind": 2,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "def process_uploaded_file(uploaded_file, document_processors):\n    file_ext = uploaded_file.name.split('.')[-1].lower()\n    processor = None\n    for p in document_processors.values():\n        if file_ext in p.get_supported_extensions():\n            processor = p\n            break\n    if processor:\n        with st.spinner(\"Processing document...\"):\n            doc_text = processor.extract_text(uploaded_file)",
+        "detail": "main_memory",
+        "documentation": {}
+    },
+    {
+        "label": "handle_question_input",
+        "kind": 2,
+        "importPath": "main_memory",
+        "description": "main_memory",
+        "peekOfCode": "def handle_question_input():\n    if st.session_state.cache is not None:\n        question = st.text_input(\"Enter your question about the document:\")\n        if st.button(\"Generate Answer\") and question:\n            with st.spinner(\"Generating response...\"):\n                response = st.session_state.qa_system.generate_response(\n                    question,\n                    st.session_state.cache,\n                    st.session_state.origin_len\n                )",
+        "detail": "main_memory",
+        "documentation": {}
+    }
+]
