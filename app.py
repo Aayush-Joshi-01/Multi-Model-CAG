@@ -80,7 +80,6 @@ class CacheAugmentedMistral:
         self.model = AutoModelForCausalLM.from_pretrained(
             model_name,
             torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32,
-            # device_map="auto",
             trust_remote_code=True,
             token=os.getenv("HF_TOKEN")
         )
