@@ -166,6 +166,18 @@ def get_available_models() -> Dict[str, ModelConfig]:
             {context}
             Question: [/INST]
             """.strip()
+        ),
+        "Qwen 2B": ModelConfig(
+            name="Qwen 2B",
+            model_id="Qwen/Qwen2-VL-2B-Instruct",
+            system_prompt="""
+            <|system|>
+            You are an assistant who provides concise factual answers.
+            <|user|>
+            Context:
+            {context}
+            Question:
+            """.strip()
         )
     }
 
